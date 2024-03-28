@@ -1,54 +1,11 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>O Apocalipse e o Fim do Mundo</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px;
-        }
-        h1 {
-            font-size: 36px;
-            margin-bottom: 30px;
-        }
-        p {
-            font-size: 18px;
-            line-height: 1.5;
-            margin-bottom: 20px;
-        }
-    </style>
+    <title>Document</title>
 </head>
 <body>
-    <header>
-        <h1>O Apocalipse e o Fim do Mundo</h1>
-    </header>
-    
-    <main>
-        <p>Bem-vindos ao nosso site dedicado ao estudo do apocalipse e do fim do mundo. Aqui, exploraremos as diferentes teorias e previsões sobre o possível fim da civilização humana e do planeta Terra como o conhecemos.</p>
-        
-        <section>
-            <h2>Cenários Apocalípticos</h2>
-            <p>Existem várias teorias sobre como o mundo poderia chegar ao fim, incluindo catástrofes naturais, conflitos nucleares, pandemias globais, impactos de asteroides, entre outros.</p>
-        </section>
-        
-        <section>
-            <h2>Preparação para o Fim</h2>
-            <p>Para aqueles que acreditam que o fim está próximo, existem medidas que podem ser tomadas para se preparar, como estocar suprimentos, construir abrigos e adquirir habilidades de sobrevivência.</p>
-        </section>
-        
-        <section>
-            <h2>O Futuro Após o Apocalipse</h2>
-            <p>Se a humanidade sobreviver a um evento apocalíptico, como seria a vida em um mundo pós-apocalíptico? Exploraremos as possíveis consequências e desafios enfrentados por uma sociedade reconstruída.</p>
-        </section>
-    </main>
-    
-    <footer>
-        <p>&copy; 2023 Apocalipse e Fim do Mundo. Todos os direitos reservados.</p>
-    </footer>
+    <article>oi</article>
 </body>
 </html>
